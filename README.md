@@ -1,4 +1,5 @@
-# Hackathon Sponsorship [![Awesome(https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Hackathon Sponsorship 
+[![Awesome(https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  
  Lets create a crowdsourced 'Awesome List' of companies to contact when looking for sponsorship for a hackathon.
  
