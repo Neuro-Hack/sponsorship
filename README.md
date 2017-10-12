@@ -17,22 +17,26 @@
 | 🎗️ | [Digital Ocean](https://www.digitalocean.com/community/questions/discounts-or-support-for-nonprofit-organisation) | Need web hosting, cloud storage? Get a droplet today.         |
 | 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
 
- ### Food :hamburger::pizza:
+ ### :hamburger::pizza: Food
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+ | 🎗️ | [Just Eat]( https://www.just-eat.co.uk) | Food delivery.         |
+ 
 
- ### Venue :office::house:
-
- |    | Sponsor                                                                                                           | Description                                                   |
- |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-
- ### Money :moneybag:
+ ### :office::house: Venue
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| 🎗️ | [Google Campus](https://www.campus.co/) | Free event space & coworking.         |
 
- ### Hardware :computer:
+ ### :moneybag: Money
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+ | 🎗️ | [Capital One](https://www.capitalone.co.uk/) | Credit Cards.         |
+
+ ### :computer: Hardware
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -43,7 +47,7 @@
 | 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | A remarkable connection with technology.        |
 | 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       | 
 
- ### Other
+ ### 🤔 Other
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|     
@@ -53,7 +57,7 @@
 | 🎗️ | [Riot](https://about.riot.im/) | Open team collaboration.   |
 | 🎗️ | [Matrix](https://matrix.org/) | An open network for secure, decentralized communication.   |
 | 🎗️ | [Accenture](https://www.accenture.com/us-en/new-applied-now) | High Performance. Delivered.   |
-| 🎗️ | [Web Applications UK](https://www.webapplicationsuk.com/) | Bespoke travel software passionately made in Oldham, UK.    |
+| 🎗️ | [Web Applications UK](https://www.webapplicationsuk.com/) | Bespoke travel software passionately made in the UK.  |
 | 🎗️ | [Barclays](https://www.home.barclays/) | 325 years of banking expertise.    |
 | 🎗️ | [Cake Solutions](http://www.cakesolutions.net/) | Enterprise software services.    |
 | 🎗️ | [Twilio](https://www.twilio.com/) | Communication APIs for SMS, Voice, Video and Authentication    |
@@ -61,7 +65,7 @@
 | 🎗️ | [FlossUK](https://www.flossuk.org/) | Free Libre and Open Source Systems.    |
 | 🎗️ | [Telcom](https://telcom.io/) | Superfast internet for the UK.    |
 | 🎗️ | [Space 48](https://www.space48.com/) | Magento Enterprise Solutions Partners & Ecommerce Agency.    |
-| 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm providing investment banking, securities, wealth management and investment management services.    |
+| 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm.|
  
 
  
