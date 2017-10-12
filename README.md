@@ -35,6 +35,7 @@
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
  | 🎗️ | [Capital One](https://www.capitalone.co.uk/) | Credit Cards.         |
+ | 🎗️ | [Monzo](https://monzo.com/) | The bank of the future, today. Mobile oriented banking. |
 
  ### :computer: Hardware
 
@@ -66,6 +67,7 @@
 | 🎗️ | [Telcom](https://telcom.io/) | Superfast internet for the UK.    |
 | 🎗️ | [Space 48](https://www.space48.com/) | Magento Enterprise Solutions Partners & Ecommerce Agency.    |
 | 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm.|
+| 🎗️ | [Capgemini](https://www.capgemini.com/gb-en/#) | Consulting, technology and outsourcing services. |
  
 
  
