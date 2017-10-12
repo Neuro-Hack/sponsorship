@@ -18,14 +18,25 @@
 | 🎗️ | [Devpost](https://devpost.com/) | Brings you great job and hacking opportunities.        |
 | 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
 | 🎗️ | [NameCheap](https://www.namecheap.com/) | The Domain Name Registrar with the BEST Customer Service.        |
-| 🎗️ | [AWeber](https://www.aweber.com//) | AWeber is a global email marketing service used by businesses & entrepreneurs.   |
 | 🎗️ | [AWeber](https://www.aweber.com/) | AWeber is a global email marketing service used by businesses & entrepreneurs.    |
 | 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Unlcok your product with ganining insights of automating interactions.   |
 | 🎗️ | [Abbvie](https://www.abbvie.com/) | Passionate to solve serious health issues using advanced science & technology.   |
 | 🎗️ | [Club Domains](https://m.get.club/search/) | Get your Club domains.       |
-| 🎗️ | [Dolby](http://developer.dolby.com/) | Best known for high-quality audio and surround sound Technoloies.   |
+| 🎗️ | [Dolby](http://developer.dolby.com/) | Best known for high-quality audio and surround sound Technologies.   |
+| 🎗️ | [Riot](https://about.riot.im/) | Open team collaboration.   |
+| 🎗️ | [Matrix](https://matrix.org/) | An open network for secure, decentralized communication.   |
+| 🎗️ | [Accenture](https://www.accenture.com/us-en/new-applied-now) | High Performance. Delivered.   |
+| 🎗️ | [Web Applications UK](https://www.webapplicationsuk.com/) | Bespoke travel software passionately made in Oldham, UK.    |
+| 🎗️ | [Barclays](https://www.home.barclays/) | 325 years of banking expertise.    |
+| 🎗️ | [Cake Solutions](http://www.cakesolutions.net/) | Enterprise software services.    |
+| 🎗️ | [Twilio](https://www.twilio.com/) | Communication APIs for SMS, Voice, Video and Authentication    |
+| 🎗️ | [Codethink](https://www.codethink.co.uk/) | The Systems Software Experts.    |
+| 🎗️ | [FlossUK](https://www.flossuk.org/) | Free Libre and Open Source Systems.    |
+| 🎗️ | [Telcom](https://telcom.io/) | Superfast internet for the UK.    |
+| 🎗️ | [Space 48](https://www.space48.com/) | Magento Enterprise Solutions Partners & Ecommerce Agency.    |
+| 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm providing investment banking, securities, wealth management and investment management services.    |
  
- 
+
  
  ## License
  
