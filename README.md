@@ -48,12 +48,17 @@
 | 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | A remarkable connection with technology.        |
 | 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       | 
 
+ ### :computer: Hosting
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| 🎗️ | [OPHosting](https://www.ophosting.io/) | Get your Website hosted by OPHosting.         |
+
  ### 🤔 Other
 
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|     
 | 🎗️ | [Stripe](https://stripe.com/) | The new standard in online payments.         |
-| 🎗️ | [OPHosting](https://www.ophosting.io/) | Get your Website hosted by OPHosting.         |
 | 🎗️ | [Devpost](https://devpost.com/) | Brings you great job and hacking opportunities.        |
 | 🎗️ | [Riot](https://about.riot.im/) | Open team collaboration.   |
 | 🎗️ | [Matrix](https://matrix.org/) | An open network for secure, decentralized communication.   |
