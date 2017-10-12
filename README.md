@@ -1,6 +1,6 @@
 # Hackathon Sponsorship [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  
- Lets create a crowdsourced 'Awesome List' of companies to contact when looking for sponsorship for a hackathon.
+ Lets create a crowdsourced 'Awesome List' of companies to contact when looking for sponsorship for a hackathon. These should be companies that have previously sponsored a hackathon.
  
  
  
@@ -19,12 +19,12 @@
 | 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
 | 🎗️ | [NameCheap](https://www.namecheap.com/) | The Domain Name Registrar with the BEST Customer Service.        |
 | 🎗️ | [AWeber](https://www.aweber.com//) | AWeber is a global email marketing service used by businesses & entrepreneurs.   |
-| 🎗️ | [AWeber](https://www.aweber.com/) | AWeber is a global email marketing service used by businesses & entrepreneurs.    |
 | 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Unlcok your product with ganining insights of automating interactions.   |
-| 🎗️ | [Abbvie](https://www.abbvie.com/) | Passionate to solve serious health issues using advanced science & technology.   |
-| 🎗️ | [Club Domains](https://m.get.club/search/) | Get your Club domains.       |
-| 🎗️ | [Dolby](http://developer.dolby.com/) | Best known for high-quality audio and surround sound Technoloies.   |
- 
+| 🎗️ | [LEAP Motion](https://www.leapmotion.com/) | Reach into virtual reality with your bare hands.   |
+| 🎗️ | [Muse](http://www.choosemuse.com/) | The brain sensing headband.   |
+| 🎗️ | [Oculus](https://www.oculus.com/) | Effortlessly enter VR with no PC.   |
+| 🎗️ | [Thalmic Labs](https://www.thalmic.com/) | Changing the way people interact with technology.   |
+| 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | Touch virtual objects in mid-air.  |
  
  
  ## License
