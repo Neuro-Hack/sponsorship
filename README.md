@@ -7,17 +7,49 @@
  ## Potential Sponsors
  
  ### Think there's someone missing? Add them here!
+
+ ### Swag
  
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
- | 🎗️ | [GitHub](https://community.github.com/)    |     GitHub is version control platform for the everyday coder.  |
+| 🎗️ | [NameCheap](https://www.namecheap.com/) | The Domain Name Registrar with the BEST Customer Service.        |
+| 🎗️ | [GitHub](https://community.github.com/)    |     GitHub is version control platform for the everyday coder.  |
 | 🎗️ | [Digital Ocean](https://www.digitalocean.com/community/questions/discounts-or-support-for-nonprofit-organisation) | Need web hosting, cloud storage? Get a droplet today.         |
+| 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
+
+ ### Food
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+
+ ### Venue
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+
+ ### Money
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+
+ ### Hardware
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 🎗️ | [Estimote](https://estimote.com/) | Estimote Beacons — real world context for your apps.         |
+| 🎗️ | [Muse](http://www.choosemuse.com/) | The brain sensing headband.         |
+| 🎗️ | [Oculus VR](https://www.oculus.com/) | Oculus is making it possible to experience anything, anywhere, through the power of virtual reality.         |
+| 🎗️ | [Thalmic Labs](https://www.thalmic.com/) | Makers of the Myo Gesture Control Armband.        |
+| 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | A remarkable connection with technology.        |
+| 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       | 
+
+ ### Other
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|     
 | 🎗️ | [Stripe](https://stripe.com/) | The new standard in online payments.         |
 | 🎗️ | [OPHosting](https://www.ophosting.io/) | Get your Website hosted by OPHosting.         |
 | 🎗️ | [Devpost](https://devpost.com/) | Brings you great job and hacking opportunities.        |
-| 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
-| 🎗️ | [NameCheap](https://www.namecheap.com/) | The Domain Name Registrar with the BEST Customer Service.        |
 | 🎗️ | [AWeber](https://www.aweber.com/) | AWeber is a global email marketing service used by businesses & entrepreneurs.    |
 | 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Unlcok your product with ganining insights of automating interactions.   |
 | 🎗️ | [Abbvie](https://www.abbvie.com/) | Passionate to solve serious health issues using advanced science & technology.   |
