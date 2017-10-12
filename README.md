@@ -17,7 +17,7 @@ Lets create a crowdsourced 'Awesome List' of companies to contact when looking f
 | 🎗️ | [Devpost](https://devpost.com/) | Brings you great job and hacking opportunities.        |
 | 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
 | 🎗️ | [NameCheap](https://www.namecheap.com/) | The Domain Name Registrar with the BEST Customer Service.        |
-| 🎗️ | [AWeber](https://www.aweber.com//) | AWeber is a global email marketing service used by businesses & entrepreneurs.    |
+| 🎗️ | [AWeber](https://www.aweber.com/) | AWeber is a global email marketing service used by businesses & entrepreneurs.    |
 | 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Unlcok your product with ganining insights of automating interactions.   |
 | 🎗️ | [Abbvie](https://www.abbvie.com/) | Passionate to solve serious health issues using advanced science & technology.    |
 | 🎗️ | [Club Domains](https://m.get.club/search/) | Get your Club domains.       |
