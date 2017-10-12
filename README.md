@@ -11,3 +11,4 @@ Lets create a crowdsourced 'Awesome List' of companies to contact when looking f
 |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 🎗️ | [GitHub](https://community.github.com/)                                                                           | GitHub is version control platform for the everyday coder...  |
 | 🎗️ | [Digital Ocean](https://www.digitalocean.com/community/questions/discounts-or-support-for-nonprofit-organisation) | Need web hosting, cloud storage? Get a droplet today.         |
+| 🎗️ | [Estimote](https://estimote.com/) | Estimote Beacons — real world context for your apps.         |
