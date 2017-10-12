@@ -16,6 +16,10 @@ Lets create a crowdsourced 'Awesome List' of companies to contact when looking f
 | 🎗️ | [OPHosting](https://www.ophosting.io/) | Get your Website hosted by OPHosting.         |
 | 🎗️ | [Devpost](https://devpost.com/) | Brings you great job and hacking opportunities.        |
 | 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
+| 🎗️ | [Abbvie](https://www.abbvie.com/) | Passionate to solve serious health issues using advanced science and technology.        |
+| 🎗️ | [Club Domains](https://m.get.club/search/) | Get Your .Club Domains from Club Domains        |
+| 🎗️ | [Dolby](http://developer.dolby.com/) | Best known for high-quality audio and surround sound Technoloies        |
+| 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Unlcok your product with ganining insights of automating interactions,image and video analyzing.         |
 
 ## License
 
