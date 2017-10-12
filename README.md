@@ -7,25 +7,63 @@
  ## Potential Sponsors
  
  ### Think there's someone missing? Add them here!
+
+ ### Swag :gift:
  
  |    | Sponsor                                                                                                           | Description                                                   |
  |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
- | 🎗️ | [GitHub](https://community.github.com/)    |     GitHub is version control platform for the everyday coder.  |
+| 🎗️ | [NameCheap](https://www.namecheap.com/) | The Domain Name Registrar with the BEST Customer Service.        |
+| 🎗️ | [GitHub](https://community.github.com/)    |     GitHub is version control platform for the everyday coder.  |
 | 🎗️ | [Digital Ocean](https://www.digitalocean.com/community/questions/discounts-or-support-for-nonprofit-organisation) | Need web hosting, cloud storage? Get a droplet today.         |
+| 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
+
+ ### Food :hamburger::pizza:
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+
+ ### Venue :office::house:
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+
+ ### Money :moneybag:
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+
+ ### Hardware :computer:
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | 🎗️ | [Estimote](https://estimote.com/) | Estimote Beacons — real world context for your apps.         |
+| 🎗️ | [Muse](http://www.choosemuse.com/) | The brain sensing headband.         |
+| 🎗️ | [Oculus VR](https://www.oculus.com/) | Oculus is making it possible to experience anything, anywhere, through the power of virtual reality.         |
+| 🎗️ | [Thalmic Labs](https://www.thalmic.com/) | Makers of the Myo Gesture Control Armband.        |
+| 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | A remarkable connection with technology.        |
+| 🎗️ | [Leap Motion](https://www.leapmotion.com/) | Leap Motion’s mission is to remove the barriers between people and technology.       | 
+
+ ### Other
+
+ |    | Sponsor                                                                                                           | Description                                                   |
+ |----|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|     
 | 🎗️ | [Stripe](https://stripe.com/) | The new standard in online payments.         |
 | 🎗️ | [OPHosting](https://www.ophosting.io/) | Get your Website hosted by OPHosting.         |
 | 🎗️ | [Devpost](https://devpost.com/) | Brings you great job and hacking opportunities.        |
-| 🎗️ | [TechCrunch](https://techcrunch.com/) | The latest technology news and information on startups.        |
-| 🎗️ | [NameCheap](https://www.namecheap.com/) | The Domain Name Registrar with the BEST Customer Service.        |
-| 🎗️ | [AWeber](https://www.aweber.com//) | AWeber is a global email marketing service used by businesses & entrepreneurs.   |
-| 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Unlcok your product with ganining insights of automating interactions.   |
-| 🎗️ | [LEAP Motion](https://www.leapmotion.com/) | Reach into virtual reality with your bare hands.   |
-| 🎗️ | [Muse](http://www.choosemuse.com/) | The brain sensing headband.   |
-| 🎗️ | [Oculus](https://www.oculus.com/) | Effortlessly enter VR with no PC.   |
-| 🎗️ | [Thalmic Labs](https://www.thalmic.com/) | Changing the way people interact with technology.   |
-| 🎗️ | [Ultrahaptics](https://www.ultrahaptics.com/) | Touch virtual objects in mid-air.  |
+| 🎗️ | [Riot](https://about.riot.im/) | Open team collaboration.   |
+| 🎗️ | [Matrix](https://matrix.org/) | An open network for secure, decentralized communication.   |
+| 🎗️ | [Accenture](https://www.accenture.com/us-en/new-applied-now) | High Performance. Delivered.   |
+| 🎗️ | [Web Applications UK](https://www.webapplicationsuk.com/) | Bespoke travel software passionately made in Oldham, UK.    |
+| 🎗️ | [Barclays](https://www.home.barclays/) | 325 years of banking expertise.    |
+| 🎗️ | [Cake Solutions](http://www.cakesolutions.net/) | Enterprise software services.    |
+| 🎗️ | [Twilio](https://www.twilio.com/) | Communication APIs for SMS, Voice, Video and Authentication    |
+| 🎗️ | [Codethink](https://www.codethink.co.uk/) | The Systems Software Experts.    |
+| 🎗️ | [FlossUK](https://www.flossuk.org/) | Free Libre and Open Source Systems.    |
+| 🎗️ | [Telcom](https://telcom.io/) | Superfast internet for the UK.    |
+| 🎗️ | [Space 48](https://www.space48.com/) | Magento Enterprise Solutions Partners & Ecommerce Agency.    |
+| 🎗️ | [Morgan Stanley](https://www.morganstanley.com/) | Global financial services firm providing investment banking, securities, wealth management and investment management services.    |
  
+
  
  ## License
  
