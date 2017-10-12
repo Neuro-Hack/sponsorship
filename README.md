@@ -15,3 +15,10 @@ Lets create a crowdsourced 'Awesome List' of companies to contact when looking f
 | 🎗️ | [Stripe](https://stripe.com/) | The new standard in online payments.         |
 | 🎗️ | [Devpost](https://devpost.com/) | Brings you great job and hacking opportunities.        |
 
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Andrew Raynes](https://twitter.com/raynes_cc) has waived all copyright and related or neighboring rights to this work.
+
