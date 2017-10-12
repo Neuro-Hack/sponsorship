@@ -1,6 +1,6 @@
 # Hackathon Sponsorship [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Lets create a crowdsourced 'Awesome List' of companies to contact when looking for sponsorship for a hackathon. 
+Lets create a crowdsourced 'Awesome List' of companies to contact when looking for sponsorship for a hackathon.
 
 
 ## Potential Sponsors
@@ -20,7 +20,8 @@ Lets create a crowdsourced 'Awesome List' of companies to contact when looking f
 | 🎗️ | [IBM Watson](https://www.ibm.com/watson/) | Unlcok your product with ganining insights of automating interactions.   |
 | 🎗️ | [Abbvie](https://www.abbvie.com/) | Passionate to solve serious health issues using advanced science and technology.        |
 | 🎗️ | [Club Domains](https://m.get.club/search/) | Get your Club domains.       |
-| 🎗️ | [Dolby](http://developer.dolby.com/) | Best known for high-quality audio and surround sound Technoloies.        |
+| 🎗️ | [Dolby](http://developer.dolby.com/) | Best known for high-quality audio and surround sound Technoloies.   |
+| 🎗️ | [AWeber](https://www.aweber.com//) | AWeber is a global email marketing service used by over 100,000+ small businesses, bloggers and entrepreneurs.    |
 
 
 ## License
@@ -28,4 +29,3 @@ Lets create a crowdsourced 'Awesome List' of companies to contact when looking f
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Andrew Raynes](https://twitter.com/raynes_cc) has waived all copyright and related or neighboring rights to this work.
-
